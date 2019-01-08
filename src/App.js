@@ -11,7 +11,7 @@ class App extends Component {
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
-         <a href="/page-1">Page 1</a>
+         <a href="/page-1/">Page 1</a>
         </header>
       </div>
     );
